@@ -75,7 +75,7 @@ textarea:focus, input:focus {
 
 .style-all {
     background: #273549;
-    margin: 36px 25px;
+    margin: 36px 0 25px 25px;
     width: 500px;
     height: 108px;
     display: flex;
@@ -84,4 +84,10 @@ textarea:focus, input:focus {
     flex-direction: column;
     color: #CCC1FF;
     font-size: 20px;
+}
+
+#length {
+    margin: 0;
+    padding: 0;
+
 }
